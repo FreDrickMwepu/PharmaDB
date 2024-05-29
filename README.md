@@ -1,5 +1,7 @@
 # PharmaDB
 
+This README provides a comprehensive overview of the project, including the database schema, practical requirements, and instructions for getting started and contributing. Adjust the content as necessary to match the specifics of your project setup and any additional details you may want to include.
+
 The Prescriptions-R-X chain of pharmacies has tasked us with designing a comprehensive database to manage their operations. This project aims to ensure efficient and secure handling of patient information, doctor records, pharmaceutical company data, drug details, prescriptions, and contracts between pharmacies and pharmaceutical companies.
 
 ## Project Overview
